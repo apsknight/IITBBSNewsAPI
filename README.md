@@ -54,6 +54,7 @@ Result:
   "project_url": "https://apsknight.github.io/IITBBSNewsAPI", 
   "website": "https://apsknight.github.io/"
 }
+```
 
 ### `GET: /news`  
 Result:  
@@ -109,11 +110,11 @@ Result:
 }
 ```
 
-# Contributing
+## Contributing
 Feel free to submit a pull request or an issue.  
 **OR**  
 You can [tweet me](https://twitter.com/ultimateaps) if script deprecate.
 
-# License
+## License
 
 Built with ♥ by Aman Pratap Singh([@apsknight](http://amanpratapsingh.github.io)) under [MIT License](http://mit-license.org/)
