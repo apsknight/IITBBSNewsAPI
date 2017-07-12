@@ -53,7 +53,7 @@ def noticesRoute () :
 ######################
 @app.route('/<path:dummy>')
 def fallback(dummy):
-    return redirect("http://www.github.com")
+    return redirect("http://amanpratapsingh.github.io/IITBBSNewsAPI")
 
 
 ######################
