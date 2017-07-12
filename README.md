@@ -1,17 +1,15 @@
 IIT Bhubaneswar News API
 =====
 
-![](https://img.shields.io/travis/USER/REPO.svg)
 ![](https://img.shields.io/npm/l/express.svg)
 ![](https://img.shields.io/badge/Python-2.7.12-red.svg)
 ![](https://img.shields.io/badge/Heroku-deployed-brightgreen.svg)
 ![](https://img.shields.io/badge/API%20Type-JSON-orange.svg)
-![](https://img.shields.io/badge/Authentication-No-red.svg)
 
 >A JSON API to scrap latest news, events details and notices from <http://www.iitbbs.ac.in>
 
 
-# Features
+## Features
 * News and Updates
 	* Return JSONified count, link text and URL for top 30 news and updates.
 * Events
@@ -19,7 +17,7 @@ IIT Bhubaneswar News API
 * Notices
 	* Return JSONified count, link text and URL of all available notices.
 
-# Schema
+## Schema
 All API access is over `HTTPS`, and accessed from the `<https://iitbbs.herokuapp.com>`. All data is sent as JSON.
 
 ```bash
@@ -43,7 +41,7 @@ Via: 1.1 vegur
 }
 ```
 
-# Endpoints
+## Endpoints
 
 ### `GET: /`  
 Result:  
@@ -75,7 +73,6 @@ Result:
       "text": "Information to the provisionally selected candidates  for joining to M.Sc. Programme 2017-18", 
       "url": "http://www.iitbbs.ac.in/msc.php"
     }, 
-		.....
   ]
 }
 ```
@@ -108,14 +105,14 @@ Result:
       "text": "Subjects to be offered for Summer Quarter 2016-17", 
       "url": "http://www.iitbbs.ac.in/notice/subjectstobeofferedforsummerquarter201617_1495022716.pdf"
     }, 
-    	.....
   ]
 }
+```
 
 # Contributing
 Feel free to submit a pull request or an issue.  
 **OR**  
-You can [tweet me](https://twitter.com/ultimateaps) if script get deprecate.
+You can [tweet me](https://twitter.com/ultimateaps) if script deprecate.
 
 # License
 
