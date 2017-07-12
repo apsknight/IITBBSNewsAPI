@@ -13,9 +13,9 @@ def defaultRoute () :
 		'author' : 'Aman Pratap Singh',
 		'website' : 'https://apsknight.github.io/',
 		'email' : 'amanprtpsingh@gmail.com',
-		'endpoint' : '#',
+		'endpoint' : 'https://iitbbs.herokuapp.com',
 	    'project_name' : 'IITBBSNewsAPI',
-		'project_url' : '#'
+		'project_url' : 'https://apsknight.github.io/IITBBSNewsAPI/'
 	})
 
 ######################
