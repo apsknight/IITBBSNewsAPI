@@ -4,7 +4,7 @@ IIT Bhubaneswar News API
 [![License : MIT](https://img.shields.io/npm/l/express.svg)](http://aps.mit-license.org)
 [![Python: 2.7.12](https://img.shields.io/badge/Python-2.7.12-red.svg)](https://www.python.org/downloads/release/python-2712/)
 ![](https://img.shields.io/badge/Heroku-deployed-brightgreen.svg)
-![](https://img.shields.io/badge/API%20Type-JSON-orange.svg)
+[![API: JSON](https://img.shields.io/badge/API%20Type-JSON-orange.svg)](http://www.json.org)
 
 >A JSON API to scrap latest news, events details and notices from <http://www.iitbbs.ac.in>
 
