@@ -111,10 +111,10 @@ Result:
 ```
 
 ## Contributing
-Feel free to submit a pull request or an issue.  
+Feel free to submit a pull request or an issue. Sugest new features on issue tracker.
 **OR**  
 You can [tweet me](https://twitter.com/ultimateaps) if script deprecate.
 
 ## License
 
-Built with ♥ by Aman Pratap Singh([@apsknight](http://amanpratapsingh.github.io)) under [MIT License](http://mit-license.org/)
+Built with ♥ by Aman Pratap Singh([@apsknight](http://amanpratapsingh.github.io)) under [MIT License](http://aps.mit-license.org/)
