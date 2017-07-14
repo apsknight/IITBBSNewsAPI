@@ -2,7 +2,7 @@ IIT Bhubaneswar News API
 =====
 
 [![License : MIT](https://img.shields.io/npm/l/express.svg)](http://aps.mit-license.org)
-![](https://img.shields.io/badge/Python-2.7.12-red.svg)
+[![Python: 2.7.12](https://img.shields.io/badge/Python-2.7.12-red.svg)](https://www.python.org/downloads/release/python-2712/)
 ![](https://img.shields.io/badge/Heroku-deployed-brightgreen.svg)
 ![](https://img.shields.io/badge/API%20Type-JSON-orange.svg)
 
